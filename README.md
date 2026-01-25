@@ -1,3 +1,3 @@
 # URL-Shortner
 
-## Full-Stack Application with full Analytical Dashboard Views.
+## Full-Stack Application with full Analytical Dashboard Views & Interactive Charts.
